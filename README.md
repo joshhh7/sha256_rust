@@ -14,7 +14,7 @@ Compliance testing was performed using the tool [crypto-condor](https://github.c
 ## Usage
 To build the repository (cargo is required) :
 ```console
-cargo build
+> cargo build
 ```
 
 Run `src/main.rs`, then enter hexadecimal input :
